@@ -1,0 +1,20 @@
+.input {
+  border: none;
+  padding: 14px 28px;
+  padding-top: 18px;
+  border-radius: 30px;
+  max-width: 100%;
+  outline: none;
+  font-family: 'poppinsmedium',
+  sans-serif;
+  font:inherit;
+  line-height:24px;
+  color: #444B58;
+}
+.input::placeholder {
+  color: #444B58;
+}
+
+.field__input {
+  margin-left: -45px;
+}

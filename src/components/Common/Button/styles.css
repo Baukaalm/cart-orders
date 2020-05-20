@@ -1,0 +1,35 @@
+.button {
+  padding: 16px 0;
+  border: none;
+  font-size: 15px;
+  line-height: 23px;
+  font-family: 'poppinsbold';
+  color: inherit;
+  background-color: transparent;
+  cursor: pointer;
+  border-radius: 30px;
+}
+
+.button.--primary {
+  background-color: #5fa01b;
+  color: #ffffff;
+}
+
+.button.--uppercase {
+  text-transform: uppercase;
+}
+
+.button.--secondary {
+  background-color: #fff;
+  border: 1px solid #5fa01b;
+  color: #5fa01b;
+}
+.button.--lg {
+  width: 188px;
+}
+.button.--sm {
+  width: 94px;
+}
+.button.--md {
+  width: 119px;
+}

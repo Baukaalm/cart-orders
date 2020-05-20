@@ -1,0 +1,17 @@
+.title {
+  color: #333c2a;
+}
+.title.--lg {
+  font-size: 69px;
+  line-height: 76px;
+  font-family: "poppinsbold";
+}
+.title.--md {
+  font-size: 26px;
+  line-height: 38px;
+  font-family: "poppinsmedium", sans-serif;
+  font-weight: lighter;
+}
+.title.--white {
+  color: #fff;
+}
